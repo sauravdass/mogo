@@ -783,6 +783,7 @@ hr{
 .comment-bg-2{
     padding-top: 100px;
     padding-bottom: 120px;
+    margin-top: -4px;
 }
 
 .comment-bg-2 .comment .icon{
